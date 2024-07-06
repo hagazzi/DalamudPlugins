@@ -1,7 +1,7 @@
 [{
-  "Author": "AlexCSDev",
-  "Name": "XIVWindowResizerH",
-  "InternalName": "XIVWindowResizerH",
+  "Author": "AlexCSDev+H",
+  "Name": "XIVWindowResizer",
+  "InternalName": "XIVWindowResizer",
   "AssemblyVersion": "1.0.0.3",
   "RepoUrl": "https://github.com/hagazzi/XIVWindowsResizer",
   "Description": "Set your game window to arbitrary size not limited by your display resolution. Mostly useful for taking high-resolution screenshots without going fullscreen and using DSR/FSR.\r\nRequires borderless or windowed mode.",
