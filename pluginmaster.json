@@ -17,7 +17,7 @@
   "CanUnloadAsync": false,
   "LoadPriority": 0,
   "Punchline": "Game window resizing plugin. Ever wanted to take 8K screenshots on 144p screen? Now you can.",
-  "AcceptsFeedback": true
+  "AcceptsFeedback": true,
   "IconUrl": "https://raw.githubusercontent.com/hagazzi/XIVWindowsResizer/main/XIVWindowResizer/images/icon.png",
   "DownloadLinkInstall": "https://github.com/hagazzi/XIVWindowsResizer/releases/download/1.0.0.3/latest.zip",
   "DownloadLinkTesting": "https://github.com/hagazzi/XIVWindowsResizer/releases/download/1.0.0.3/latest.zip",
