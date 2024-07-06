@@ -1,8 +1,8 @@
 [
 	{
 		"Author": "AlexCSDev",
-		"Name": "XIVWindowResizer",
-		"InternalName": "xivWindowResizer",
+		"Name": "XIVWindowResizerH",
+		"InternalName": "xivWindowResizerHagazzi",
 		"Description": "Game window resizing plugin. Ever wanted to take 8K screenshots on 144p screen? Now you can.",
 		"AssemblyVersion": "1.0.0.3",
 		"TestingAssemblyVersion": "1.0.0.3",
