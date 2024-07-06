@@ -6,7 +6,7 @@
 		"Description": "Game window resizing plugin. Ever wanted to take 8K screenshots on 144p screen? Now you can.",
 		"AssemblyVersion": "1.0.0.3",
 		"TestingAssemblyVersion": "1.0.0.3",
-		"RepoUrl": "https://github.com/hagazzi/XIVWindowResizer",
+		"RepoUrl": "https://github.com/hagazzi/XIVWindowsResizer",
 		"ApplicableVersion": "any",
 		"DalamudApiLevel": 10,
 		"Tags": [
@@ -14,9 +14,9 @@
 			"posing",
 			"utility"
 		],
-		"IconUrl": "https://raw.githubusercontent.com/hagazzi/XIVWindowResizer/master/XIVWindowResizer/images/icon.png",
-		"DownloadLinkInstall": "https://github.com/hagazzi/XIVWindowResizer/releases/download/1.0.0.3/latest.zip",
-		"DownloadLinkTesting": "https://github.com/hagazzi/XIVWindowResizer/releases/download/1.0.0.3/latest.zip",
-		"DownloadLinkUpdate": "https://github.com/hagazzi/XIVWindowResizer/releases/download/1.0.0.3/latest.zip"
+		"IconUrl": "https://raw.githubusercontent.com/hagazzi/XIVWindowsResizer/main/XIVWindowResizer/images/icon.png",
+		"DownloadLinkInstall": "https://github.com/hagazzi/XIVWindowsResizer/releases/download/1.0.0.3/latest.zip",
+		"DownloadLinkTesting": "https://github.com/hagazzi/XIVWindowsResizer/releases/download/1.0.0.3/latest.zip",
+		"DownloadLinkUpdate": "https://github.com/hagazzi/XIVWindowsResizer/releases/download/1.0.0.3/latest.zip"
 	}
 ]
