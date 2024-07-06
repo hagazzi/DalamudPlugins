@@ -14,9 +14,9 @@
 			"posing",
 			"utility"
 		],
-		"IconUrl": "https://raw.githubusercontent.com/hagazzi/XIVWindowResizer/main/XIVWindowResizer/images/icon.png",
-		"DownloadLinkInstall": "https://github.com/hagazzi/XIVWindowResizer/releases/download/1.0.0.3/latest.zip",
-		"DownloadLinkTesting": "https://github.com/hagazzi/XIVWindowResizer/releases/download/1.0.0.3/latest.zip",
-		"DownloadLinkUpdate": "https://github.com/hagazzi/XIVWindowResizer/releases/download/1.0.0.3/latest.zip"
+		"IconUrl": "https://raw.githubusercontent.com/hagazzi/XIVWindowResizerH/main/XIVWindowResizer/images/icon.png",
+		"DownloadLinkInstall": "https://github.com/hagazzi/XIVWindowResizerH/releases/download/1.0.0.3/latest.zip",
+		"DownloadLinkTesting": "https://github.com/hagazzi/XIVWindowResizerH/releases/download/1.0.0.3/latest.zip",
+		"DownloadLinkUpdate": "https://github.com/hagazzi/XIVWindowResizerH/releases/download/1.0.0.3/latest.zip"
 	}
 ]
