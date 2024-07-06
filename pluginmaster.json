@@ -1,22 +1,25 @@
-[
-	{
-		"Author": "AlexCSDev",
-		"Name": "XIVWindowResizerH",
-		"InternalName": "xivWindowResizerHagazzi",
-		"Description": "Game window resizing plugin. Ever wanted to take 8K screenshots on 144p screen? Now you can.",
-		"AssemblyVersion": "1.0.0.3",
-		"TestingAssemblyVersion": "1.0.0.3",
-		"RepoUrl": "https://github.com/hagazzi/XIVWindowsResizer",
-		"ApplicableVersion": "any",
-		"DalamudApiLevel": 10,
-		"Tags": [
-			"gpose",
-			"posing",
-			"utility"
-		],
-		"IconUrl": "https://raw.githubusercontent.com/hagazzi/XIVWindowsResizer/main/XIVWindowResizer/images/icon.png",
-		"DownloadLinkInstall": "https://github.com/hagazzi/XIVWindowsResizer/releases/download/1.0.0.3/latest.zip",
-		"DownloadLinkTesting": "https://github.com/hagazzi/XIVWindowsResizer/releases/download/1.0.0.3/latest.zip",
-		"DownloadLinkUpdate": "https://github.com/hagazzi/XIVWindowsResizer/releases/download/1.0.0.3/latest.zip"
-	}
-]
+[{
+  "Author": "AlexCSDev",
+  "Name": "XIVWindowResizerH",
+  "InternalName": "XIVWindowResizerH",
+  "AssemblyVersion": "1.0.0.3",
+  "RepoUrl": "https://github.com/hagazzi/XIVWindowsResizer",
+  "Description": "Set your game window to arbitrary size not limited by your display resolution. Mostly useful for taking high-resolution screenshots without going fullscreen and using DSR/FSR.\r\nRequires borderless or windowed mode.",
+  "ApplicableVersion": "any",
+  "Tags": [
+    "gpose",
+    "posing",
+    "utility"
+  ],
+  "DalamudApiLevel": 10,
+  "LoadRequiredState": 0,
+  "LoadSync": false,
+  "CanUnloadAsync": false,
+  "LoadPriority": 0,
+  "Punchline": "Game window resizing plugin. Ever wanted to take 8K screenshots on 144p screen? Now you can.",
+  "AcceptsFeedback": true
+  "IconUrl": "https://raw.githubusercontent.com/hagazzi/XIVWindowsResizer/main/XIVWindowResizer/images/icon.png",
+  "DownloadLinkInstall": "https://github.com/hagazzi/XIVWindowsResizer/releases/download/1.0.0.3/latest.zip",
+  "DownloadLinkTesting": "https://github.com/hagazzi/XIVWindowsResizer/releases/download/1.0.0.3/latest.zip",
+  "DownloadLinkUpdate": "https://github.com/hagazzi/XIVWindowsResizer/releases/download/1.0.0.3/latest.zip"		
+}]
