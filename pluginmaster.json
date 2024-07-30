@@ -18,5 +18,24 @@
 		"DownloadLinkInstall": "https://github.com/hagazzi/XIVWindowResizerH/releases/download/1.0.0.3/latest.zip",
 		"DownloadLinkTesting": "https://github.com/hagazzi/XIVWindowResizerH/releases/download/1.0.0.3/latest.zip",
 		"DownloadLinkUpdate": "https://github.com/hagazzi/XIVWindowResizerH/releases/download/1.0.0.3/latest.zip"
-	}
+	},
+	{
+		"Author": "Taurenkey (Puni.sh)H",
+		"Name": "ArtisanH",
+		"InternalName": "Artisan",
+		"AssemblyVersion": "4.0.1.2",
+		"Description": "The all-in-one crafting plugin.",
+		"ApplicableVersion": "any",
+		"RepoUrl": "https://github.com/hagazzi/ArtisanStg",
+		"Tags": [
+		  "crafting"
+		],
+		"DalamudApiLevel": 10,
+		"IconUrl": "https://love.puni.sh/resources/artisan.png",
+		"Punchline": "A 'simple' crafting plugin.",
+		"Changelog": "",
+		"DownloadLinkInstall": "https://github.com/hagazzi/ArtisanStg/releases/download/0.0.0.1/latest.zip",
+		"DownloadLinkTesting": "https://github.com/hagazzi/ArtisanStg/releases/download/0.0.0.1/latest.zip",
+		"DownloadLinkUpdate": "https://github.com/hagazzi/ArtisanStg/releases/download/0.0.0.1/latest.zip"		
+	}	
 ]
