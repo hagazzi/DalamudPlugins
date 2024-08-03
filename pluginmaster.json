@@ -31,7 +31,7 @@
 		  "crafting"
 		],
 		"DalamudApiLevel": 10,
-		"IconUrl": "https://love.puni.sh/resources/artisan.png",
+		"IconUrl": "https://raw.githubusercontent.com/hagazzi/DalamudPlugins/main/Artisan.png",
 		"Punchline": "A 'simple' crafting plugin.",
 		"Changelog": "",
 		"DownloadLinkInstall": "https://github.com/hagazzi/ArtisanStg/releases/download/0.0.0.1/latest.zip",
