@@ -34,8 +34,8 @@
 		"IconUrl": "https://raw.githubusercontent.com/hagazzi/DalamudPlugins/main/Artisan.png",
 		"Punchline": "A 'simple' crafting plugin.",
 		"Changelog": "",
-		"DownloadLinkInstall": "https://github.com/hagazzi/ArtisanStg/releases/download/0.0.0.4/latest.zip",
-		"DownloadLinkTesting": "https://github.com/hagazzi/ArtisanStg/releases/download/0.0.0.4/latest.zip",
-		"DownloadLinkUpdate": "https://github.com/hagazzi/ArtisanStg/releases/download/0.0.0.4/latest.zip"		
+		"DownloadLinkInstall": "https://github.com/hagazzi/ArtisanStg/releases/download/0.0.0.5/latest.zip",
+		"DownloadLinkTesting": "https://github.com/hagazzi/ArtisanStg/releases/download/0.0.0.5/latest.zip",
+		"DownloadLinkUpdate": "https://github.com/hagazzi/ArtisanStg/releases/download/0.0.0.5/latest.zip"		
 	}	
 ]
