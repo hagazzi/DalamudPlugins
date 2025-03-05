@@ -39,17 +39,17 @@
 		"DownloadLinkUpdate": "https://github.com/hagazzi/ArtisanStg/releases/download/0.0.0.5/latest.zip"		
 	},
 	{
-		"Author": "veyn",
-		"Name": "vsatisfy",
-		"InternalName": "vsatisfy",
+		"Author": "veynH",
+		"Name": "SatisfierH",
+		"InternalName": "Satisfier",
 		"AssemblyVersion": "0.0.0.0",
 		"Description": "Make custom deliveries less annoying by automating the process.",
 		"ApplicableVersion": "any",
 		"RepoUrl": "https://github.com/hagazzi/SatisfierH",
 		"DalamudApiLevel": 11,
 		"Punchline": "Automatic satisfaction.",
-		"DownloadLinkInstall": "https://github.com/hagazzi/SatisfierH/releases/download/0.0.0.5/latest.zip",
-		"DownloadLinkTesting": "https://github.com/hagazzi/SatisfierH/releases/download/0.0.0.5/latest.zip",
-		"DownloadLinkUpdate": "https://github.com/hagazzi/SatisfierH/releases/download/0.0.0.5/latest.zip"				
+		"DownloadLinkInstall": "https://github.com/hagazzi/SatisfierH/releases/download/v0.0.0.10b/latest.zip",
+		"DownloadLinkTesting": "https://github.com/hagazzi/SatisfierH/releases/download/v0.0.0.10b/latest.zip",
+		"DownloadLinkUpdate": "https://github.com/hagazzi/SatisfierH/releases/download/v0.0.0.10b/latest.zip"				
 	}	
 ]
