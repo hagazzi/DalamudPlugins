@@ -30,7 +30,7 @@
 		"Tags": [
 		  "crafting"
 		],
-		"DalamudApiLevel": 11,
+		"DalamudApiLevel": 12,
 		"IconUrl": "https://raw.githubusercontent.com/hagazzi/DalamudPlugins/main/Artisan.png",
 		"Punchline": "A 'simple' crafting plugin.",
 		"Changelog": "",
