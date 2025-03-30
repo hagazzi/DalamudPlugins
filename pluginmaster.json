@@ -46,7 +46,7 @@
 		"Description": "Make custom deliveries less annoying by automating the process.",
 		"ApplicableVersion": "any",
 		"RepoUrl": "https://github.com/hagazzi/SatisfierH",
-		"DalamudApiLevel": 11,
+		"DalamudApiLevel": 12,
 		"Punchline": "Automatic satisfaction.",
 		"DownloadLinkInstall": "https://github.com/hagazzi/SatisfierH/releases/download/v0.0.0.10b/latest.zip",
 		"DownloadLinkTesting": "https://github.com/hagazzi/SatisfierH/releases/download/v0.0.0.10b/latest.zip",
