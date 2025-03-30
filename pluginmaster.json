@@ -41,7 +41,7 @@
 	{
 		"Author": "veynH",
 		"Name": "SatisfierH",
-		"InternalName": "Satisfy",
+		"InternalName": "vsatisfy",
 		"AssemblyVersion": "0.0.0.0",
 		"Description": "Make custom deliveries less annoying by automating the process.",
 		"ApplicableVersion": "any",
