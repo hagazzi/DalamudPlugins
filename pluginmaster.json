@@ -51,5 +51,24 @@
 		"DownloadLinkInstall": "https://github.com/hagazzi/SatisfierH/releases/download/v0.0.0.10b/latest.zip",
 		"DownloadLinkTesting": "https://github.com/hagazzi/SatisfierH/releases/download/v0.0.0.10b/latest.zip",
 		"DownloadLinkUpdate": "https://github.com/hagazzi/SatisfierH/releases/download/v0.0.0.10b/latest.zip"				
+	},
+	{
+	    "Author": "Kanwa",
+	    "Name": "Mass Withdraw",
+	    "InternalName": "MassWithdraw",
+	    "Description": "Withdraw all items from your retainer into your inventory.",
+	    "ApplicableVersion": "any",
+	    "RepoUrl": "https://kanww.github.io/Mass-Withdraw/",
+	    "Tags": ["retainer", "inventory", "withdraw"],
+	    "DalamudApiLevel": 15,
+	    "DownloadLinkInstall": "https://github.com/hagazzi/Mass-Withdraw/releases/download/1.0.2.0/latest.zip",
+	    "DownloadLinkTesting": "https://github.com/hagazzi/Mass-Withdraw/releases/download/1.0.2.0/latest.zip",
+	    "DownloadLinkUpdate": "https://github.com/hagazzi/Mass-Withdraw/releases/download/1.0.2.0/latest.zip",
+	    "LoadPriority": 0,
+	    "Punchline": "Fast and safe retainer inventory withdraw.",
+	    "AssemblyVersion": "1.0.2.0",
+	    "Changelog": "- 1.0.2.0 — Updated for Dalamud API 15 / .NET 10.",
+	    "IconUrl": "https://kanww.github.io/Mass-Withdraw/releases/icon128.png",
+	    "LastUpdate": 1766561400
 	}	
 ]
