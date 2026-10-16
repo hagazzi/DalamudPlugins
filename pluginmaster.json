@@ -66,8 +66,8 @@
 	    "DownloadLinkUpdate": "https://github.com/hagazzi/Mass-Withdraw/releases/latest/download/latest.zip",
 	    "LoadPriority": 0,
 	    "Punchline": "Fast and safe retainer inventory withdraw.",
-	    "AssemblyVersion": "1.0.2.1",
-	    "Changelog": "- 1.0.2.1 — From Inventory to Retainer also."
+	    "AssemblyVersion": "1.0.2.0",
+	    "Changelog": "- 1.0.2.0 — Updated for Dalamud API 15 / .NET 10.",
 	    "IconUrl": "https://kanww.github.io/Mass-Withdraw/releases/icon128.png",
 	    "LastUpdate": 1766561400
 	}	
