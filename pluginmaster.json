@@ -74,7 +74,7 @@
 	{
 		"Author": "veyn, blackappleD",
 		"Name": "vfallguyD",
-		"InternalName": "vfallguyD",
+		"InternalName": "vfallguy",
 		"Punchline": "Get that achievement!",
 		"Description": "Auto join/leave to try fishing for solo instance, highlight of aoes on last stage.。",
 		"RepoUrl": "https://github.com/blackappleD/ffxiv_vfallguy",
