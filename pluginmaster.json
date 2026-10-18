@@ -70,5 +70,24 @@
 	    "Changelog": "- 1.0.2.0 — Updated for Dalamud API 15 / .NET 10.",
 	    "IconUrl": "https://kanww.github.io/Mass-Withdraw/releases/icon128.png",
 	    "LastUpdate": 1766561400
+	},
+	{
+		"Author": "veyn, blackappleD",
+		"Name": "vfallguy",
+		"InternalName": "vfallguy",
+		"Punchline": "Get that achievement!",
+		"Description": "Auto join/leave to try fishing for solo instance, highlight of aoes on last stage.。",
+		"RepoUrl": "https://github.com/blackappleD/ffxiv_vfallguy",
+		"Tags": ["goldsaucer", "mgf", "achievement"],
+		"DalamudApiLevel": 15,
+	    "DownloadLinkInstall": "https://github.com/hagazzi/vfallguy/releases/latest/download/latest.zip",
+	    "DownloadLinkTesting": "https://github.com/hagazzi/vfallguy/releases/latest/download/latest.zip",
+	    "DownloadLinkUpdate":  "https://github.com/hagazzi/vfallguy/releases/latest/download/latest.zip",
+		"LoadPriority": 0,
+		"Punchline": "Get that achievement!",
+		"AssemblyVersion": "0.0.0.13001",
+		"Changelog": "0.0.0.13001 from blackappleD, edited for english(regex)",
+		"IconUrl": "https://raw.githubusercontent.com/awgil/ffxiv_vfallguy/3af43e6f7b7e63c6527ffa4ecc54190034bd60c4/icon2.png",
+		"LastUpdate": 1766561400
 	}	
 ]
