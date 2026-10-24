@@ -89,5 +89,25 @@
 		"Changelog": "0.0.0.13001 from blackappleD, edited for english(regex)",
 		"IconUrl": "https://raw.githubusercontent.com/awgil/ffxiv_vfallguy/3af43e6f7b7e63c6527ffa4ecc54190034bd60c4/icon2.png",
 		"LastUpdate": 1766561400
+	},
+	{
+		"Author": "kawaii,limiana?",
+		"Name": "Dropbox",
+		"Punchline": "Your personal vending machine.",
+		"Description": "Your personal vending machine.",
+		"Tags": [],
+		"InternalName": "Dropbox",
+		"RepoUrl": "https://github.com/kawaii/Dropbox",
+		"DownloadCount": 50324,
+		"LastUpdate": 1783980806,
+		"DownloadLinkInstall": "https://github.com/hagazzi/Dropbox/releases/latest/download/latest.zip",
+		"DownloadLinkUpdate": "https://github.com/hagazzi/Dropbox/releases/latest/download/latest.zip",
+		"AssemblyVersion": "1.0.2.15",
+		"ApplicableVersion": "any",
+		"DalamudApiLevel": "15",
+		"Changelog": "Finally fix whitelist and detect full inventory",
+		"TestingAssemblyVersion": "1.0.2.14",
+		"DownloadLinkTesting": "https://puni.sh/api/plugins/download/27/Dropbox/versions/1.0.2.14/install/testing.zip",
+		"TestingDalamudApiLevel": "15"
 	}	
 ]
