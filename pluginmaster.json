@@ -111,21 +111,21 @@
 		"TestingDalamudApiLevel": "15"
 	},
 	{
-		"Author": "croizat",
-		"Name": "Glamour Log",
-		"Punchline": "Gotta collect 'em all",
-		"Description": "A log for all your glamours and other glam-related tweaks",
-		"Tags": ["glamour"],
-		"InternalName": "GlamourLog",
-		"RepoUrl": "https://github.com/Jaksuhn/ffxiv_glamourlog",
-		"DownloadCount": 66581,
-		"LastUpdate": 1795285442,
+		"Author": "daemitus, croizat",
+		"Name": "Something Need Doing",
+		"Punchline": "Work work.",
+		"Description": "Now for more than crafting!",
+		"Tags": [],
+		"InternalName": "SomethingNeedDoing",
+		"RepoUrl": "https://github.com/Jaksuhn/SomethingNeedDoing",
+		"DownloadCount": 847834,
+		"LastUpdate": 1795429795,
 		"DownloadLinkInstall": "https://github.com/hagazzi/SomethingNeedDoing/releases/latest/download/latest.zip",
 		"DownloadLinkUpdate": "https://github.com/hagazzi/SomethingNeedDoing/releases/latest/download/latest.zip",
-		"AssemblyVersion": "15.81",
+		"AssemblyVersion": "15.15",
 		"ApplicableVersion": "any",
 		"DalamudApiLevel": "15",
 		"Changelog": "",
-		"IconUrl": "https://puni.sh/api/plugins/icon/136"
+		"IconUrl": "https://puni.sh/api/plugins/icon/25"
 	}	
 ]
