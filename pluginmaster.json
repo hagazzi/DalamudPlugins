@@ -109,5 +109,23 @@
 		"TestingAssemblyVersion": "1.0.2.14",
 		"DownloadLinkTesting": "https://puni.sh/api/plugins/download/27/Dropbox/versions/1.0.2.14/install/testing.zip",
 		"TestingDalamudApiLevel": "15"
+	},
+	{
+		"Author": "croizat",
+		"Name": "Glamour Log",
+		"Punchline": "Gotta collect 'em all",
+		"Description": "A log for all your glamours and other glam-related tweaks",
+		"Tags": ["glamour"],
+		"InternalName": "GlamourLog",
+		"RepoUrl": "https://github.com/Jaksuhn/ffxiv_glamourlog",
+		"DownloadCount": 66581,
+		"LastUpdate": 1795285442,
+		"DownloadLinkInstall": "https://github.com/hagazzi/SomethingNeedDoing/releases/latest/download/latest.zip",
+		"DownloadLinkUpdate": "https://github.com/hagazzi/SomethingNeedDoing/releases/latest/download/latest.zip",
+		"AssemblyVersion": "15.81",
+		"ApplicableVersion": "any",
+		"DalamudApiLevel": "15",
+		"Changelog": "",
+		"IconUrl": "https://puni.sh/api/plugins/icon/136"
 	}	
 ]
